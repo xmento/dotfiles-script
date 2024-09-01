@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Variables
-REPO_URL="https://github.com/caiogondim/dotfiles"
+REPO_URL="https://github.com/xmento/dotfiles-script"
 REPO_DIR="$HOME/dotfiles"
 
 # Function to print messages
